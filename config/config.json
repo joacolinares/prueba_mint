@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBB8A34947d3837e9D657667589dF96D97eB47a19",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "MATIC",
+    "ID": 80001
+  },
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "HYB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
